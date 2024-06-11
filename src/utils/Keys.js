@@ -1,0 +1,2 @@
+export const appId =1575609808
+export const appSignin = "47fc785b187f3085f13a3d2fc59ff7c6c996692e173a413e14706fa62d2ec721"
